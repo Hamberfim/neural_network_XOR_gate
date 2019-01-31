@@ -36,6 +36,8 @@ An XOR operation can be used to classify input. Using two inputs it will classif
 <br/>
 The network takes the two inputs and feeds them to two neurons. Then passes the outputs of these two neurons to an output neuron, which will provide the classification according to an XOR truth table represented by a numpy array.
 
+
+<br/>
 <br/>
 XOR GATE as numpy array:
 
