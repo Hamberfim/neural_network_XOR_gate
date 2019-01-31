@@ -75,5 +75,6 @@ Then rounded to obtain binary values:
  [0.]]`
 
 
+<br/>
 
 _Train a neural network to function like an XOR gate - adapted from Renato Candido's simple machine learning example._
